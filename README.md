@@ -10,7 +10,7 @@ The Snowflake Codeless Connector for Microsoft Sentinel enables seamless integra
 
 <a name = "accountId">
   
-## Steps to obtain the Snowflake Account Identitfier
+## Steps to obtain the Snowflake Account Identifier
 - Log in to your Snowflake account using your username and password.
 - In the left context pane, click on your **Profile name**.
 - Hover over the **Account** section to reveal additional options.
