@@ -1,7 +1,7 @@
 # Integrating Snowflake into Microsoft Sentinel
 ## Table Of Contents
 - [Introduction](#intro)
-- [Steps to obtain the Snowflake Account Identitfier](#accountId)
+- [Steps to obtain the Snowflake Account Identifier](#accountId)
 - [Steps to obtain Programmatic Access Token in Snowflake](#pat)
 
 <a name = "intro">
